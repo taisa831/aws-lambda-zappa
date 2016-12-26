@@ -1,0 +1,7 @@
+{
+    "dev": {
+        "s3_bucket": "dev-lamda-parts",
+        "app_function": "my_app.app"
+        "aws_region": "us-west-2",
+    }
+}
