@@ -1,0 +1,7 @@
+{
+    "dev": {
+        "s3_bucket": "dev-lambda-parts",
+        "app_function": "my_app.app",
+        "aws_region": "ap-northeast-1"
+    }
+}
